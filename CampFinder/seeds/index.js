@@ -49,11 +49,11 @@ const seedDB = async () => {
             , images: [
                 {
                     url: 'Add your cloudinary image url here',
-                    filename: 'Add your omage file name and route Ex: CampFinder/my-first-image',
+                    filename: 'Add your image file name and route Ex: CampFinder/my-first-image',
                 },
                 {
                     url: 'Add your cloudinary image url here',
-                    filename: 'Add your omage file name and route Ex: CampFinder/my-first-image',
+                    filename: 'Add your image file name and route Ex: CampFinder/my-first-image',
                 }
             ]
         });
